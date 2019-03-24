@@ -75,7 +75,7 @@ def dos2():
 def usage():
 	print (''' \033[92m	
 	DDOS Script 
-	Script ini direcode dari script DDos Hammer v.1 \n
+	Script ini direcode dari script DDos Hammer \n
 	Recode By Nesch7 
 	Pembuat tidak bertanggung jawab jika digunakan untuk melawan hukum.
 	cara menggunakan : python3 ddos.py [-s] [-p] [-t]
